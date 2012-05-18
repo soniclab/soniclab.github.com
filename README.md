@@ -8,6 +8,6 @@
 
 [1]: http:/www.northwestern.edu
 [2]: http://sonic.northwestern.edu
-[3]: /C-IKNOW-VIVO-Recommender/
+[3]: http://northwesternuniversitysoniclab.github.com/C-IKNOW-VIVO-Recommender/
 [4]: http://sonic.northwestern.edu/wp-content/uploads/2011/06/RGB-SONICv3.png
 [5]: http://www.northwestern.edu/univ-relations/identity-system/logos/NU_Logo_purple.jpg
