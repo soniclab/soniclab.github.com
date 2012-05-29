@@ -1,4 +1,4 @@
-# The [SONIC Laboratory][2] of [Northwestern University][1] on GitHUb
+# The [SONIC Laboratory][2] of [Northwestern University][1] on [GitHub][8]
 
 [![Northwestern University logo][5]][1]
    
@@ -16,3 +16,4 @@
 [5]: http://www.northwestern.edu/univ-relations/identity-system/logos/NU_Logo_purple.jpg
 [6]: http://vivoweb.org/
 [7]: http://soniclab.github.com/apidocs/VIVORecommender/index.html
+[8]: http://github.com/
